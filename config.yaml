@@ -1,0 +1,7 @@
+[General]
+username = user123
+password = pass123
+
+[Settings]
+theme = dark
+font_size = 12
